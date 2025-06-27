@@ -110,7 +110,7 @@ i {
   padding: 12px;
   background: linear-gradient(45deg, #1e2338, #191e34);
   border: 1px solid #282d43;
-    border-Radius: 5px;
+  border-radius: 5px;
 }
 
 .option-item-name,
@@ -378,5 +378,5 @@ footer ul a {
 
 /* 🔴 CSS property name Error here 👇 */
 footer ul li span a {
-  color: rgb(218, 082, 082);
+  color: rgb(218, 82, 82);
 }
